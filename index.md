@@ -22,6 +22,13 @@ int main(){
 
 This is a simple code to print a basic pattern with *'s drawing out what you call rectangle or a square! 
 
+## Hello, here we are again turning the things which are left and trying to make them complete!
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Complete learning Markdown official tutorial by GitHub
+- [X] Let's Go :)
+
 ##### *The Message*:
 This is an amazing opportunity I am getting right now to improve my skills to contribute more on GitHub.  
 So, I am creating a commit regarding the change in index.md file which essentially shows how am I practicing Markdown.  
