@@ -1,7 +1,8 @@
 # Learning Markdown: how to make you understand in simple and productive terms.
 
 
-
+## SO here Goes the Image-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
